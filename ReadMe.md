@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Techpo Website**
 
-- 💬 Ask me about **Javascript,HTML&CSS**
+- 💬 Ask me about **Javascript,HTML&CSS,NodeJs,MongoDb,Front-End Related Topics**
 
 - 📫 How to reach me **zidark897@gmail.com**
 
