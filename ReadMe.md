@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zidane-arkan&show_icons=true&title_color=1a936f&text_color=88d498&bg_color=114b5f&locale=en&layout=compact" alt="zidane-arkan" /></p>
 
-<a href="https://app.daily.dev/daniz_0"><img src="https://api.daily.dev/devcards/4218c38c763240cd876ac0f37c393f40.png?r=d1b" width="400" alt="Zidane Arkan's Dev Card"/></a>
+
