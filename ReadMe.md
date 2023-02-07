@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm M.Zidane Arkan</h1>
 <h3 align="center">Someone who is trying to achieve some of his goals by becoming a web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zidane-arkan&label=Profile%20views&color=19647e&style=plastic" alt="zidane-arkan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zidane-arkan" alt="zidane-arkan" /></a> </p>
-
 - 🔭 I’m currently working on **BEM KM Fasilkom Web**
 
 - 🌱 I’m currently learning **React,CodeIgniter**
-
-- 👯 I’m looking to collaborate on **Techpo Website**
 
 - 💬 Ask me about **Javascript,HTML&CSS,NodeJs,MongoDb,Front-End Related Topics**
 
