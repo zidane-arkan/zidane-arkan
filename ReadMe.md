@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M.Zidane Arkan</h1>
 <h3 align="center">Someone who is trying to achieve some of his goals by becoming a web developer</h3>
 
-- 🔭 I’m currently working on **BEM KM Fasilkom Web**
+- 🔭 I’m currently working on **Github Clone**
 
 - 🌱 I’m currently learning **React,CodeIgniter**
 
