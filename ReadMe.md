@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Github Clone**
 
-- 🌱 I’m currently learning **React,CodeIgniter**
+- 🌱 I’m currently learning **Angular & Svelte**
 
 - 💬 Ask me about **Javascript,HTML&CSS,NodeJs,MongoDb,Front-End Related Topics**
 
