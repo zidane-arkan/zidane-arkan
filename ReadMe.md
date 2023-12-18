@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Perbakin PWA**
 
-- 🌱 I’m currently learning **Flusk & Machine Learning**
+- 🌱 I’m currently learning **Flask & Machine Learning**
 
-- 💬 Ask me about **Javascript,HTML&CSS,NodeJs,MongoDb,Front-End Related Topics**
+- 💬 Ask me about **Front-End Or Machine Learning Related Topics**
 
 - 📫 How to reach me **zidark897@gmail.com**
 
