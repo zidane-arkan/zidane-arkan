@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M.Zidane Arkan</h1>
 <h3 align="center">Someone who is trying to achieve some of his goals by becoming a full-stack developer</h3>
 
-- 🔭 I’m currently working on **Perbakin PWA**
+- 🔭 I’m currently working on **Expense App**
 
 - 🌱 I’m currently learning **Flask & Machine Learning**
 
