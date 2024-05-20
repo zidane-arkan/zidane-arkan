@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm M.Zidane Arkan</h1>
-<p align="left">Call Me Zidan </br>Someone who is trying to achieve some of his goals by becoming a full-stack developer</p>
+<p align="left">Call Me Zidan ⚡</br>Someone who is trying to achieve some of his goals by becoming a full-stack developer</p>
 
 <h3>Something I'm Familiar With</h3>
 <p>
@@ -30,11 +30,29 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working on **Expense App**
-
-- 🌱 I’m currently learning **Flask & Machine Learning**
-
-- 💬 Ask me about **Web Or Machine Learning Related Topics**
+<h3>Latest projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>📬 Short Desc</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Foodhshelf</b></a></td>
+      <td>An app that helps reduce leftover food waste by allowing users to share excess food with the community. The app was built using Flutter for interface development and Firebase for database management and authentication.</td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Perbakin PWA</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Badan Antar Usaha CRUD App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 - 📫 How to reach me **zidark897@gmail.com**
 
