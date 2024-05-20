@@ -62,7 +62,7 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zidane-arkan&theme=highcontrast" alt="GitHub Streak" /></a>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zidane-arkan&theme=dracula" alt="GitHub Streak" /></a>
     	<p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
