@@ -3,7 +3,7 @@
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&random=false&width=490&height=45&lines=Full+Stack+And+Machine+Learning+Developer;Knowing+is+Half+the+Battle+So+Practice+!" alt="Typing SVG" />
 </p>
 
-<h3>Something I'm Familiar With</h3>
+<h2>Something I'm Familiar With</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=Next.js&logoColor=white" />
@@ -57,14 +57,6 @@
 
  
   <h2>📊 Stats and Activity</h2>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zidane-arkan&theme=dracula" alt="GitHub Streak" /></a>
-  <p>
-	<p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
