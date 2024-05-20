@@ -4,7 +4,7 @@
 <h3>Something I'm Familiar With</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=Next.js&logoColor=white" />
+  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=Next.js&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="flutter" src="https://img.shields.io/badge/-Flutter-764ABC?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
