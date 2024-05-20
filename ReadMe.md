@@ -21,6 +21,7 @@
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-00758f?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
 </p>
 
 - 🔭 I’m currently working on **Expense App**
