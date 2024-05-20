@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm M.Zidane Arkan</h1>
-<h3 align="left">Someone who is trying to achieve some of his goals by becoming a full-stack developer</h3>
+<h5 align="left">Call Me Zidan</h5>
+<h5 align="left">Someone who is trying to achieve some of his goals by becoming a full-stack developer</h5>
 
 <h3>Something I'm Familiar With</h3>
 <p>
