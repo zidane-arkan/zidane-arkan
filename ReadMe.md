@@ -3,7 +3,7 @@
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&random=false&width=490&height=45&lines=Full+Stack+And+Machine+Learning+Developer;Knowing+is+Half+the+Battle+So+Practice+!" alt="Typing SVG" />
 </p>
 
-<h2>Something I'm Familiar With</h2>
+<h2>🛠️ Something I'm Familiar With</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=Next.js&logoColor=white" />
