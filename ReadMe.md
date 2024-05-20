@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.Zidane Arkan</h1>
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&random=false&width=320&lines=Full+Stack+Developer;Knowing+is+Half+the+Battle" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&random=false&width=400&height=45&lines=Full+Stack+Developer;Knowing+is+Half+the+Battle" alt="Typing SVG" />
 </p>
 
 <h3>Something I'm Familiar With</h3>
