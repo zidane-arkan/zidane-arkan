@@ -30,11 +30,10 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />
 </p>
 
-<h3>Latest projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>🎁 Latest Projects</b></td>
     </tr>
   </thead>
   <tbody>
