@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M.Zidane Arkan</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=450&lines=Someone+who+is+trying+to+achieve+some+of+his+goals;Full+Stack+Developer" alt="Typing SVG" /></a>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC143C&random=false&width=450&lines=Full+Stack+Developer;Knowing+is+Half+the+Battle" alt="Typing SVG" />
 
 <h3>Something I'm Familiar With</h3>
 <p>
