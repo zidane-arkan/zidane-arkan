@@ -35,22 +35,18 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>📬 Short Desc</b></td>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Foodhshelf</b></a></td>
-      <td>An app that helps reduce leftover food waste by allowing users to share excess food with the community. The app was built using Flutter for interface development and Firebase for database management and authentication.</td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Perbakin PWA</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Badan Antar Usaha CRUD App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+    	<tr>
+	      <td><a href="https://github.com/zidane-arkan/"><b>Foodhshelf</b></a></td>
+    	</tr>
+	<tr>
+	      <td><a href="https://github.com/zidane-arkan/"><b>Perbakin PWA</b></a></td>
+    	</tr>
+	<tr>
+	      <td><a href="https://github.com/zidane-arkan/"><b>Badan Antar Usaha CRUD App</b></a></td>
+    	</tr>
   </tbody>
 </table>
 
@@ -60,6 +56,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/zidanearkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zidanearkan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zidane-arkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zidane-arkan" height="30" width="40" /></a>
+	<a href="https://dev.to/zidanearkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zidanearkan" height="30" width="40" /></a>
+	<a href="https://linkedin.com/in/zidane-arkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zidane-arkan" height="30" width="40" /></a>
 </p>
