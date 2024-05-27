@@ -56,6 +56,7 @@
 - ⚡ Fun fact **When you answer a question with a question, the question becomes the answer to the question**
 
 <h2>🔥 Streak Stats</h2>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=zidane-arkan&theme=dracula&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 <h2>💻 GitHub Profile Stats</h2>
