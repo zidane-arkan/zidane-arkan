@@ -55,17 +55,17 @@
 
 - ⚡ Fun fact **When you answer a question with a question, the question becomes the answer to the question**
 
- 
+<h2>🔥 Streak Stats</h2>
+[![GitHub Streak](https://streak-stats.demolab.com?user=zidane-arkan&theme=dracula&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 <h2>💻 GitHub Profile Stats</h2>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![Zidane's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidane-arkan&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=zidane-arkan&theme=dracula&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidane-arkan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🧰 Connect with me:</h3>
 <p align="left">
 	<a href="https://dev.to/zidanearkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zidanearkan" height="30" width="40" /></a>
 	<a href="https://linkedin.com/in/zidane-arkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zidane-arkan" height="30" width="40" /></a>
